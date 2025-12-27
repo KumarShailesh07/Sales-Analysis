@@ -1,6 +1,4 @@
-════════════════════════════════════════════════════
 📊 End-to-End Sales Performance & Trend Analysis (Excel)
-════════════════════════════════════════════════════
 
 🚀 Project Overview  
 This project presents a complete Sales Analytics solution built using Microsoft Excel.  
@@ -13,9 +11,7 @@ The objective of this project is to help businesses understand:
 
 This project follows a real-world business intelligence workflow used by Data Analysts.
 
-════════════════════════════════════════════════════
 📁 Dataset Description
-════════════════════════════════════════════════════
 
 The dataset consists of transaction-level sales data with the following fields:
 
@@ -32,9 +28,7 @@ The dataset consists of transaction-level sales data with the following fields:
 
 This raw data acts as the single source of truth for all pivot tables and dashboards.
 
-════════════════════════════════════════════════════
 📌 Module 1 – Product & Regional Sales Performance
-════════════════════════════════════════════════════
 
 🎯 Objective  
 To identify top-performing products and cities using revenue contribution analysis.
@@ -82,9 +76,7 @@ To identify top-performing products and cities using revenue contribution analys
 Business Value  
 ➤ Helps management focus inventory and marketing on high-impact products and cities  
 
-════════════════════════════════════════════════════
 📈 Module 2 – Sales Growth & Seasonality Analysis
-════════════════════════════════════════════════════
 
 🎯 Objective  
 To analyze how sales change across months and identify seasonality and growth trends.
@@ -123,9 +115,7 @@ To analyze how sales change across months and identify seasonality and growth tr
 ➤ Implemented Product slicer for dynamic filtering  
 ➤ Allows comparison across Laptop, Mouse, Headphones, Printer, Monitor, Keyboard  
 
-════════════════════════════════════════════════════
 👥 Module 3 – Customer Revenue & Loyalty Analysis
-════════════════════════════════════════════════════
 
 🎯 Objective  
 To identify high-value customers and repeat buyers.
@@ -160,9 +150,7 @@ To identify high-value customers and repeat buyers.
 Business Value  
 ➤ Helps design loyalty programs and targeted offers  
 
-════════════════════════════════════════════════════
 🛠 Tools & Skills Applied
-════════════════════════════════════════════════════
 
 ➤ Microsoft Excel  
 ➤ Pivot Tables & Pivot Charts  
@@ -171,9 +159,7 @@ Business Value
 ➤ Running Totals  
 ➤ Sales & Customer Analytics  
 
-════════════════════════════════════════════════════
 🎯 Conclusion
-════════════════════════════════════════════════════
 
 This project demonstrates how Excel can be used as a powerful business intelligence tool to convert raw sales data into actionable insights.
 
