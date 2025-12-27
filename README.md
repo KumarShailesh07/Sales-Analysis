@@ -28,9 +28,7 @@ The dataset is stored in the Raw Data sheet and contains transaction-level sales
 
 This sheet acts as the single source of truth for all pivot tables and dashboards.
 
-══════════════════════════════════════════
 📌 Mini Project 1 – Sales Performance Analysis
-══════════════════════════════════════════
 
 🎯 Objective  
 Evaluate product-wise and city-wise revenue contribution and identify top performers.
@@ -71,9 +69,7 @@ Insight → Webcam generates almost one-fourth of total revenue, making it the m
 Insight → Hyderabad is the strongest revenue market  
 Insight → Chennai has high growth potential
 
-══════════════════════════════════════════
 📈 Mini Project 2 – Monthly Sales Trend
-══════════════════════════════════════════
 
 🎯 Objective  
 Understand seasonality, peaks, dips, and growth.
@@ -103,9 +99,7 @@ Insight → Best month: January
 Insight → Weakest month: May  
 Insight → Overall running total shows continuous business growth
 
-══════════════════════════════════════════
 👥 Mini Project 3 – Customer Purchase Analysis
-══════════════════════════════════════════
 
 🎯 Objective  
 Identify high-value and loyal customers.
@@ -135,9 +129,7 @@ Insight → Top 5 customers contribute nearly 78 percent of total revenue
 
 Insight → Sneha is the most loyal and highest-value customer
 
-══════════════════════════════════════════
 📊 KPIs Tracked
-══════════════════════════════════════════
 
 ➤ Total Revenue  
 ➤ Product-wise Sales  
@@ -147,9 +139,7 @@ Insight → Sneha is the most loyal and highest-value customer
 ➤ Customer Contribution  
 ➤ Repeat Purchases  
 
-══════════════════════════════════════════
 🛠 Tools & Skills
-══════════════════════════════════════════
 
 ➤ Microsoft Excel  
 ➤ Pivot Tables  
@@ -159,9 +149,7 @@ Insight → Sneha is the most loyal and highest-value customer
 ➤ Trend Analysis  
 ➤ Customer Analytics  
 
-══════════════════════════════════════════
 🎯 Business Value
-══════════════════════════════════════════
 
 This dashboard helps businesses to  
 ➤ Identify high-demand products  
@@ -170,18 +158,14 @@ This dashboard helps businesses to
 ➤ Retain high-value customers  
 ➤ Improve marketing and inventory decisions  
 
-══════════════════════════════════════════
 🚀 Future Enhancements
-══════════════════════════════════════════
 
 ➤ Add cost and profit analysis  
 ➤ Build Power BI version  
 ➤ Add customer demographics  
 ➤ Perform sales forecasting  
 
-══════════════════════════════════════════
 ✅ Conclusion
-══════════════════════════════════════════
 
 This project shows how raw Excel data can be converted into powerful business insights.  
 It reflects real-world data analyst workflows used in companies.
