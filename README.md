@@ -1,6 +1,4 @@
-══════════════════════════════════════════
 📊 End-to-End Sales Analysis Dashboard (Excel)
-══════════════════════════════════════════
 
 🧩 Project Overview  
 This project demonstrates an end-to-end Sales Analytics workflow built using Microsoft Excel.  
@@ -13,9 +11,7 @@ The goal of this project is to answer three key business questions:
 
 This project simulates how real businesses analyze sales data to support decision-making in marketing, inventory management, and customer retention.
 
-══════════════════════════════════════════
 📁 Dataset Description
-══════════════════════════════════════════
 
 The dataset is stored in the Raw Data sheet and contains transaction-level sales records.
 
