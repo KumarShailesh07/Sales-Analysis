@@ -28,7 +28,7 @@ The dataset is stored in the Raw Data sheet and contains transaction-level sales
 
 This sheet acts as the single source of truth for all pivot tables and dashboards.
 
-📌 Module 1 – Product & Regional Sales Performance Mini Project 1 – Sales Performance Analysis
+📌 Module 1 – Product & Regional Sales Performance 
 
 🎯 Objective  
 Evaluate product-wise and city-wise revenue contribution and identify top performers.
