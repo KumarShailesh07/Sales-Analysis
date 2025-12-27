@@ -28,7 +28,7 @@ The dataset is stored in the Raw Data sheet and contains transaction-level sales
 
 This sheet acts as the single source of truth for all pivot tables and dashboards.
 
-📌 Mini Project 1 – Sales Performance Analysis
+📌 Module 1 – Product & Regional Sales Performance Mini Project 1 – Sales Performance Analysis
 
 🎯 Objective  
 Evaluate product-wise and city-wise revenue contribution and identify top performers.
@@ -69,7 +69,7 @@ Insight → Webcam generates almost one-fourth of total revenue, making it the m
 Insight → Hyderabad is the strongest revenue market  
 Insight → Chennai has high growth potential
 
-📈 Mini Project 2 – Monthly Sales Trend
+📈 Module 2 – Sales Growth & Seasonality Analysis
 
 🎯 Objective  
 Understand seasonality, peaks, dips, and growth.
@@ -99,7 +99,7 @@ Insight → Best month: January
 Insight → Weakest month: May  
 Insight → Overall running total shows continuous business growth
 
-👥 Mini Project 3 – Customer Purchase Analysis
+👥 Module 3 – Customer Revenue & Loyalty Analysis
 
 🎯 Objective  
 Identify high-value and loyal customers.
