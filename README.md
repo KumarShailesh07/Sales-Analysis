@@ -164,5 +164,3 @@ Business Value
 This project demonstrates how Excel can be used as a powerful business intelligence tool to convert raw sales data into actionable insights.
 
 It reflects real-world workflows used by Data Analysts to understand product performance, customer behavior, and business growth.
-
-Ideal for Data Analyst, Business Analyst, and MIS roles.
